@@ -1,4 +1,4 @@
-# Hi, I'm Roselyne Aleyo
+# Howdy, I'm Roselyne Aleyo
 
 ### PhD Researcher | Soil Microbiology | Climate Solutions
 
@@ -9,8 +9,10 @@ I study how plant traits and plant–microbe interactions influence nitrous oxid
 * Nitrous oxide (N₂O) emissions
 * Soil microbiology
 * Plant–microbe interactions
+* RNAseq
 * Sustainable agriculture
 * Climate mitigation
+* R data Analysis
 * Climate-smart farming systems
 
 ## Current Work
@@ -28,13 +30,15 @@ I study how plant traits and plant–microbe interactions influence nitrous oxid
 * Statistical modelling
 * Data visualization
 * Experimental design
-* Soil and plant analysis
+* Soil and plant 
 
 ## Beyond Research
 
 I am passionate about communicating science beyond academia through writing, data storytelling, mentorship, and climate-focused initiatives. I am currently exploring ways to make scientific research more accessible through blogs, visualizations, and future podcast conversations.
 
-## Connect
+## Current Focus
+
+I am currently building a portfolio of R, Quarto, and data analysis projects focused on sustainable agriculture, plant and soil health, and climate solutions.
 
 ### Connect
 
