@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Roselyne Aleyo
 
-<!--
-**roselynealeyo/roselynealeyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### PhD Researcher | Soil Microbiology | Climate Solutions
 
-Here are some ideas to get you started:
+I study how plant traits and plant–microbe interactions influence nitrous oxide (N₂O) emissions from agricultural soils. My research focuses on developing biological solutions that help reduce greenhouse gas emissions while supporting sustainable food production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+
+* Nitrous oxide (N₂O) emissions
+* Soil microbiology
+* Plant–microbe interactions
+* Sustainable agriculture
+* Climate mitigation
+* Climate-smart farming systems
+
+## Current Work
+
+* PhD research in New Zealand
+* Plant-based strategies for reducing N₂O emissions
+* Soil nitrogen cycling and microbial ecology
+* Data analysis and visualization in R
+* Science communication and climate innovation
+
+## Tools & Skills
+
+* R & RStudio
+* Quarto & R Markdown
+* Statistical modelling
+* Data visualization
+* Experimental design
+* Soil and plant analysis
+
+## Beyond Research
+
+I am passionate about communicating science beyond academia through writing, data storytelling, mentorship, and climate-focused initiatives. I am currently exploring ways to make scientific research more accessible through blogs, visualizations, and future podcast conversations.
+
+## Connect
+
+### Connect
+
+🔗 [LinkedIn](https://www.linkedin.com/in/roselyne-aleyo-70625710b) <img src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16"> [ORCID](https://orcid.org/0009-0007-0502-5177)
+📚 [Google Scholar](https://scholar.google.com/citations?user=1825p1UAAAAJ)
+📧 [roselynealeyo57@gmail.com](mailto:roselynealeyo57@gmail.com)
+
+
+---
+
+*Exploring biological solutions for a more sustainable and climate-resilient future.*
