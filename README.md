@@ -1,6 +1,6 @@
 # Howdy, I'm Roselyne Aleyo
 
-### PhD Researcher | Plant-microbe interactions| Soil Microbiology | Climate mitigation| Gene expression|Soil nitrogen cycling|
+### PhD Researcher | Plant-microbe interactions| Soil Microbiology | Climate mitigation| Gene expression| Soil nitrogen cycling |
 
 I study how plant traits and plant–microbe interactions influence differential nitrous oxide (N₂O) emission from agricultural soils. My research focuses on developing biological solutions that help reduce greenhouse gas emissions while supporting sustainable food production.
 
@@ -34,7 +34,7 @@ I study how plant traits and plant–microbe interactions influence differential
 
 ## Beyond Research
 
-I am passionate about communicating science beyond academia through writing, data storytelling, mentorship, and climate-focused initiatives. I am currently exploring ways to make scientific research more accessible through blogs, visualizations, and future podcast conversations.
+I am passionate about communicating science beyond academia through writing, data storytelling, mentorship, and sharing scholarship opportunities on my social media pages. I am currently exploring ways to make scientific research more accessible.
 
 ## Current Focus
 
