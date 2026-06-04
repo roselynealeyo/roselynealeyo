@@ -6,14 +6,14 @@ I study how plant traits and plant–microbe interactions influence differential
 
 ## Research Interests
 
-* Nitrous oxide (N₂O) emissions
+* Nitrous oxide (N₂O) emissions from grazed pastures
 * Soil microbiology
-* Plant–microbe interactions
-* RNAseq
+* Plant-soil–microbe interactions
+* Gene expression 
 * Sustainable agriculture
-* Climate mitigation
+* Climate change mitigation
 * R data Analysis
-* Climate-smart farming systems
+* Sustainable farming systems
 
 ## Current Work
 
